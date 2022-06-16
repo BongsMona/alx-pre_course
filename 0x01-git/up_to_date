@@ -11,4 +11,5 @@
 * git add .
 * git commit -m "Hw to be up to date in git
 * git branch -v = to view what branch you are on currently
+* git pull
 * git push origin main
