@@ -1,0 +1,14 @@
+* The Shell commands are as follows:
+
+* cd alx-pre_course = change directory to alx-pre_course
+* cd 0x01-git = change directory to 0x01-git
+* touch up_to_date = touch is used to create the new file
+* vi up_to_date = vi is used to add text inside the file
+* i = used to insert text inside file up_to_date
+
+* The git commands are as follows:
+
+* git add .
+* git commit -m "Hw to be up to date in git
+* git branch -v = to view what branch you are on currently
+* git push origin main
